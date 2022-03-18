@@ -3,8 +3,7 @@ March 17, 2022
 
 ---
 
-
-The Four Immeasureables
+![[The Four Immeasurables#^f453e9]]
 
 
 
