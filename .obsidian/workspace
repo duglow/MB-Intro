@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "1f1d54bf5cd0ecd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "7df725bdf304112b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Reflections-01.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3ad959316dd9fc62",
+    "type": "split",
+    "children": [
+      {
+        "id": "57f4c490bd08bb5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e51a271e67fa817c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "173ef219699e7acb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c67f49bd6724e94e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef490f4974f200a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4554faa8e3eab66",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reflections-01.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7df725bdf304112b",
+  "lastOpenFiles": [
+    "Reflections-01.md"
+  ]
+}
