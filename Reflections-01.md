@@ -3,15 +3,18 @@ March 17, 2022
 
 ---
 
-![[The Four Immeasurables#^f453e9]]
+[[The Four Immeasurables#^f453e9 | The Four Immeasureables]]
 
+---
+**Agenda:**
+- The Four Thoughts That Turn The Mind To Dharma
 
 
 
 
 ---
 
-Dedication of Merit
+[[Dedicating The Merit#^ab1060 | Dedication of Merit]]
 
 ---
 

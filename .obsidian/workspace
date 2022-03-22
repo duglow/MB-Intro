@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "Reflections-01.md",
-            "mode": "preview"
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -18,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3ad959316dd9fc62",
+    "id": "3a76f6afbfecf737",
     "type": "split",
     "children": [
       {
-        "id": "57f4c490bd08bb5e",
+        "id": "d5ef4b4ad0b110bf",
         "type": "tabs",
         "children": [
           {
-            "id": "e51a271e67fa817c",
+            "id": "d6420397b599408d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +35,7 @@
             }
           },
           {
-            "id": "173ef219699e7acb",
+            "id": "a930c949abd8180b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,18 +53,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "c67f49bd6724e94e",
+    "id": "885005e5ed19e5cf",
     "type": "split",
     "children": [
       {
-        "id": "ef490f4974f200a7",
+        "id": "14e3225dce37813b",
         "type": "tabs",
         "children": [
           {
-            "id": "c4554faa8e3eab66",
+            "id": "b3b419bea02736b4",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -89,6 +91,8 @@
   "active": "7df725bdf304112b",
   "lastOpenFiles": [
     "Reflections-01.md",
+    "Documents/The Four Reminders.md",
+    "Documents/Dedicating The Merit.md",
     "Documents/The Four Immeasurables.md"
   ]
 }
